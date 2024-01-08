@@ -22,7 +22,7 @@ MUSIC SECTION
 
 TOUR SECTION 
 - Website owner to update "Ongoing Tours" Status
-- Displays Notable Past Tours in a gallery
+- Displays Notable Past Tours in a responsive gallery(learnt from in-lesson CAs)
 
 MERCH SECTION 
 - Provides 3 links: Apparel, Accessories, Main Shop
