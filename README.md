@@ -35,3 +35,17 @@ CONTACT SECTION
 
 **GENERAL**
 The website is size responsive (Eg: Navbar, Gallery, etc)
+
+**Image References**
+Logo from Peakpx https://w0.peakpx.com/wallpaper/375/109/HD-wallpaper-ghost-music-metal-heavy-metal-ghost-bc.jpg
+Spotify Top 10 Playlist https://open.spotify.com/embed/artist/1Qp56T7n950O3EGMsSl81D?utm_source=generator
+Youtube Icon from freepik https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg
+Facebook Icon from google images https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png
+Instagram Icon from wikimedia https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png
+X Icon from wikimedia https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/2048px-X_icon_2.svg.png
+
+Tour Poster Images from Google Images
+
+Merch 3 pictures
+2 from the ghost merch site https://ghost.backstreetmerch.com/
+1, which is the different logo version, from Ghost Official website https://ghost-official.com/wp-content/uploads/2022/10/Impera_AlbumLogo-noshadow-share.png?
