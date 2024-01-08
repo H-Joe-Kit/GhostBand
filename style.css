@@ -1,0 +1,105 @@
+/* Basic Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header and Navbar Styles */
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar .logo {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .logo h1 {
+    margin-left: 10px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.nav-links a:hover {
+    background-color: #04AA6D;
+}
+
+/* Main Container */
+.container {
+    padding: 20px;
+    width: 75%;
+    margin: auto;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar, .nav-links {
+        flex-direction: column;
+    }
+
+    .nav-links li {
+        margin-top: 10px;
+    }
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+	background: #333; 
+    padding: 1rem 0; 
+}
+
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adjust the space between icons */
+    padding: 20px 0;
+}
+
+.social-media-icons img {
+    width: 40px; /* Adjust the size of icons */
+    height: auto;
+}
+
+
+
+
